@@ -13,7 +13,7 @@ docs/ → Parameter & Hinweise
 
 ## ⚙️ OpenSCAD
 - Empfohlen: OpenSCAD 2021 oder neuer
-- Datei öffnen: `src/openscad-housing.scad`
+- Datei öffnen: `src/Diskettenbox_Final_angepasst_v1.scad`
 
 ---
 
